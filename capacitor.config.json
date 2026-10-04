@@ -1,0 +1,9 @@
+{
+  "appId": "com.anttastatee.habitapp",
+  "appName": "أنت تستطيع - تحدي الـ 90 يوم",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

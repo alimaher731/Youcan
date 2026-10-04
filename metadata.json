@@ -1,0 +1,10 @@
+{
+  "name": "Remix أنت تستطيع - تحدي الـ 90 يوم",
+  "description": "تطبيق إدارة المهام اليومية وتحدي الـ 90 يوم مع شعلة الستريك التفاعلية والإحصائيات الشهرية ونظام التذكير الذكي.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
